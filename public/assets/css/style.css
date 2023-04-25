@@ -1,0 +1,65 @@
+span.brand-text.font-weight-light {
+    font-size: 14px;
+    font-weight: 720 !important;
+    position: relative;
+    top: 25px;
+}
+img.animated-dropdown-menu {
+    position: relative;
+    bottom: 10px;
+}
+
+[class*=sidebar-dark] .brand-link {
+    height: 130px;
+    display: flex;
+    justify-items: normal;
+    padding-top: 30px;
+}
+.brand-link .brand-image {
+    max-height: 75px;
+}
+
+p.title-text {
+    color: #fff;
+}
+
+.value-box {
+    height: 50px;
+    width: 80%;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 8px;
+    background: #f0f8ff;
+}
+.iq-bg-danger {
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.iq-iconbox-1.iq-bg-danger {
+    background: #ff292940;
+}
+.iq-iconbox-2.iq-bg-danger {
+    background: #0d085c2e;
+}
+.iq-iconbox-3.iq-bg-danger {
+    background: #26d34e6e;
+}
+span.mb-2 {
+    position: relative;
+    top: 5px;
+}
+.container {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card-title {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    /* padding-bottom: 20px; */
+}

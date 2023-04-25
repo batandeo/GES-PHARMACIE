@@ -1,0 +1,8 @@
+montant global de produit
+montant de produit par semaine
+montant de produits acheté par mois
+les 5 produits les plus achetés
+Les 5 produits les moins achetés
+
+lien du logo
+https://www.shopify.com/fr/outils/createur-de-logo/onboarding/select-logo
